@@ -1,1 +1,2 @@
-# View either memo.pdf or memo.docx for grading (use .docx file for word count)
+# For Grading
+## View either memo.pdf or memo.docx for grading (use .docx file for word count)
